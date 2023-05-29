@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>pacman/aba.png</file>
+        <file>pacman/arri.png</file>
+        <file>pacman/dere.png</file>
+        <file>pacman/izq.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix2">
+        <file>objectos/laberinto.txt</file>
+        <file>objectos/pared.png</file>
+        <file>objectos/puerta.png</file>
+        <file>objectos/punto.png</file>
+        <file>objectos/super_punto.png</file>
+    </qresource>
+</RCC>
